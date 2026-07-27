@@ -51,4 +51,6 @@ GET /auditorias-login
 ```bash
 curl http://localhost:3014/health
 curl http://localhost:3014/auditorias-login
+curl https://clienteauditoria.onrender.com/health
+curl https://clienteauditoria.onrender.com/auditorias-login
 ```
